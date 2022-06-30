@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Mapping 10119259</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyAaLNGApbiRakyY1e4HEG7nefGiAf1Pby8</string>
+
+
+    <string name="a_desc">Apikasi ini berfungsi untuk menampilkan peta lokasi dimana kita berada serta menampilkan lokasi restoran sekitar dengan radius 1 KM yang bersifat dinamis</string>
+    <string name="b_desc">Aplikasi ini terdiri dari 3 menu didalamnya yaitu, 1. Menu profile, 2. Menu lokasi, 3. Menu info</string>
+    <string name="c_desc">Menu profile berisi data diri dari si pembuat aplikasi, menu lokasi menampikan maps dimana lokasi kita berada dan lokasi restoran sekitar dengan radius 1 KM, menu info berisi informasi tentang aplikasi</string>
+</resources>
