@@ -1,5 +1,10 @@
 package com.naufal.foodmapping10119259;
 
+/*
+ * Naufal Daffa Ilyasa
+ * 10119259
+ * IF7*/
+
 import android.util.Log;
 
 import java.io.BufferedReader;
