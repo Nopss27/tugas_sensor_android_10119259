@@ -1,5 +1,10 @@
 package com.naufal.foodmapping10119259;
 
+/*
+ * Naufal Daffa Ilyasa
+ * 10119259
+ * IF7*/
+
 import android.os.AsyncTask;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
